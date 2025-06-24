@@ -1,5 +1,6 @@
+![David Santoso](./img/github-header-image.png)
 ## Hi I'm David 👋
-🔭 Currently study in university
+🔭 Currently study in university  
 🌱 I’m currently learning Artificial Intelligence
 
 ### Programming Language
@@ -7,4 +8,4 @@
 
 ### Social Media
 ![https://www.instagram.com/dav.santoso/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.kaggle.com/davsantoso](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![https://www.kaggle.com/davsantoso/](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
